@@ -15,12 +15,9 @@ export const App = () => {
     <div
       style={{
         height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
+        margin: '0 auto',
         fontSize: 40,
         color: '#010101',
-        flexDirection: 'column',
       }}
     >
       <Profile

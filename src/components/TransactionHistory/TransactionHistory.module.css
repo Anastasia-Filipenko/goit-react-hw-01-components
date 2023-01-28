@@ -1,6 +1,7 @@
 .transactionHistory {
   border: 1px solid grey;
   width: 500px;
+  margin: 0px auto;
 }
 
 .columnName {
